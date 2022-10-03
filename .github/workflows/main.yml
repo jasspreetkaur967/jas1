@@ -1,4 +1,4 @@
-name: get
+name: get1
 
 on:
   workflow_dispatch:
